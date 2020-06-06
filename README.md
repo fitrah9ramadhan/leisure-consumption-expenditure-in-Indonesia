@@ -1,5 +1,6 @@
 # Leisure Consumption Expenditure in Indonesia 1993 - 2014
-Dataset leisure consumption expenditure di Indonesia
+Dataset leisure consumption expenditure di Indonesia.
+42 individu dari 1993 - 2014
 IFLS 1 sampai IFLS 5
 
 ## Mengakses dataset IFLS 1 - 5
