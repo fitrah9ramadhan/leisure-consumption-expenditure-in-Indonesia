@@ -11,4 +11,4 @@ kunjungi laman: https://www.rand.org/well-being/social-and-behavioral-policy/dat
 - Klik *AGREE AND REGISTER >>*
 - Isi kolom yang telah disediakan
 - pihak *rand.org* akan mengirimkan link download
-- Buka link download dataset IFLS1 - IFLS5
+- Klik link download dataset IFLS1 - IFLS5
