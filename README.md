@@ -1,3 +1,3 @@
 # leisure-consumption-expenditure-in-Indonesia
-Membuat dataset tentang leisure consumption di Indonesia melalui dataset IFLS
-(on going)
+Dataset leisure consumption expenditure di Indonesia
+IFLS 1 sampai IFLS 5
